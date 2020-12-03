@@ -1,0 +1,7 @@
+/* @media (min-width: 720px){
+    .container{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        color: rgb(204, 140, 20)
+    }
+} */
